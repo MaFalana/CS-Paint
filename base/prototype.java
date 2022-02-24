@@ -9,6 +9,15 @@ import javax.swing.*;
 
 public class colorPicker
 {
-  private JButton Upload;
-  
+  private JButton Upload; // Upload Button
+  private JSlider colorSlider;
+  private JTextField hexField; // Shows Hex Value
+  private JTextField hsvField; // Shows HSV Value
+  private JTextField rgbField;
+  private JComboBox redBox; // Shows Red Value
+  private JRadioButton redButton;
+  private JComboBox greenBox; // Shows Blue Value
+  private JRadioButton blueButton;
+  private JComboBox blueBox; // Shows Green Value
+  private JRadioButton greenButton; 
 }
