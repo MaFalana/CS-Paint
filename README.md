@@ -17,7 +17,7 @@ I will be using the Java programming language for my GUI, and either Arraylists 
 
 ### Installing
 
-* Just just downlod the base folder and its contents [link](https://testflight.apple.com/join/947cRtnp) then simply open an IDE or your command line and type 
+* Just just downlod the base folder and its contents or the [jar file](https://github.com/MaFalana/CS-Paint/raw/main/base/csPaint.jar) then simply open an IDE or your command line and type 
 
  ```make run ```
 
