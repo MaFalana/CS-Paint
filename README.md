@@ -19,7 +19,7 @@ I will be using the Java programming language for my GUI, and either Arraylists 
 
 * Just just downlod the base folder and its contents [link](https://testflight.apple.com/join/947cRtnp) then simply open an IDE or your command line and type 
 
-'''make run'''
+ ```make run ```
 
 to start the application
 
