@@ -13,7 +13,7 @@ I will be using the Java programming language for my GUI, and either Arraylists 
 
 ### Dependencies
 
-* X-11 Forwarding
+* X11 Forwarding
 
 ### Installing
 
