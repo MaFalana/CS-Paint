@@ -4,10 +4,7 @@ Java Based MS Paint Application
 
 ## Description
 
-CS Paint (Like MS Paint but w/ Computer Science). Just a simple Java app that will consist of two main GUI: the color picker will use sliders adjusting hue and light to produce a color, features include a cursor that will drag on an uploaded image and return a hex value and rgb value(s). 
-Using a custom color the user will be able to make and a new file that they can draw or write with a writing Utensil(Polymorphism), they can also save or delete the created image
-The intended user is anyone who needs to gather basic information for a certain color. This project doesn’t really have a “problem”, but it will be useful in extracting color info from an image or producing a color 
-I will be using the Java programming language for my GUI, and either Arraylists or Stacks with I/O for data management, a png file will be included for the icon of my GUI.
+This was a project I did for my Computer Progrmaming course, CSCI 24000. The goal was to effectively showcase the material we learned throughout the semester (OOP design concepts, serialization, etc.) using one of the languages shown in class, in this case Java. The general idea was to recreate Microsoft's MS Paint application using the Java programming language.
 
 ## Getting Started
 
@@ -17,7 +14,7 @@ I will be using the Java programming language for my GUI, and either Arraylists 
 
 ### Installing
 
-* Just just downlod the base folder and its contents or the [jar file](https://github.com/MaFalana/CS-Paint/raw/main/base/csPaint.jar) then simply open an IDE or your command line and type 
+* Just downlod the base folder and its contents or the [jar file](https://github.com/MaFalana/CS-Paint/raw/main/base/csPaint.jar) then simply open an IDE or your command line and type 
 
  ```make run ```
 
