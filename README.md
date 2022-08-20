@@ -13,7 +13,7 @@ I will be using the Java programming language for my GUI, and either Arraylists 
 
 ### Dependencies
 
-* IOS Device running a miniumum firmware of 15.0
+* X-11 Forwarding
 
 ### Installing
 
