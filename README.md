@@ -14,7 +14,7 @@ This was a project I did for my Computer Progrmaming course, CSCI 24000. The goa
 
 ### Installing
 
-* Just downlod the base folder and its contents or the [jar file](https://github.com/MaFalana/CS-Paint/raw/main/base/csPaint.jar) then simply open an IDE or your command line and from the base type 
+* Just download the base folder and its contents or the [jar file](https://github.com/MaFalana/CS-Paint/raw/main/base/csPaint.jar) then simply open an IDE or your command line and from the base type 
 
   ```make run ```
 
